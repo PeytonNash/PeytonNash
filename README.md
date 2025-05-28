@@ -1,4 +1,8 @@
-## Hi there 👋
+## About Me
+
+**Education** 
+- Bard College, BA in Economics, 2020
+- University of Chicago, MS in Applied Data Science, expected Fall 2025
 
 <!--
 **PeytonNash/PeytonNash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
