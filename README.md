@@ -1,10 +1,9 @@
 ## About Me
 
 **Let's Connect!**
+![linkedin icon](https://github.com/user-attachments/assets/9a97d92a-6fd5-4fb4-9415-f052b297dc42)
+![gmail icon](https://github.com/user-attachments/assets/a025d83e-1d50-45bf-8425-a86d8fc0dd01)
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
 
 **Education** 
 - Bard College, BA in Economics, 2020
