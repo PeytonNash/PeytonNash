@@ -1,4 +1,4 @@
-## About Me
+## Hello, World!
 
 **Education** 
 - Bard College, BA in Economics, 2020
@@ -6,10 +6,11 @@
 
 **Interests**
 - Machine Learning
+- Reinforcement Learning
 - Generative AI
-- 
 
-**Current Learning**
+**Languages and Tools**
+
 
 <!--
 **PeytonNash/PeytonNash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
