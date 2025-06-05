@@ -1,9 +1,12 @@
 ## About Me
 
 **Let's Connect!**
-![linkedin icon](https://github.com/user-attachments/assets/9a97d92a-6fd5-4fb4-9415-f052b297dc42)
-![gmail icon](https://github.com/user-attachments/assets/a025d83e-1d50-45bf-8425-a86d8fc0dd01)
+ <a href="https://www.linkedin.com/in/peytonnash/">
+   <img height="50" src="https://github.com/user-attachments/assets/6fdd796e-7c70-49d5-bad6-bb6922091840"/>
+</a>
 
+<!--
+"https://github.com/user-attachments/assets/4382cd36-bff7-453d-bd76-f82c9f8d6cb0)"
 
 **Education** 
 - Bard College, BA in Economics, 2020
