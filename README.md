@@ -20,7 +20,8 @@
 
 ### Languages and Tools
 - **Programming Languages:** Python (Pandas, numpy, scikit-learn, PyTorch, Keras) • SQL • R • SAS • Stata
-- **Database:** SQL Server • PostgreSQL • MySQL • BigQuery • Neo4j • MongoDB Business Intelligence Tools: Grafana • Power BI • Tableau
+- **Database:** SQL Server • PostgreSQL • MySQL • BigQuery • Neo4j • MongoDB
+- **Business Intelligence Tools:** Grafana • Power BI • Tableau
 - **Other:** dbt • Apache Airflow • Git
 
 <!--
