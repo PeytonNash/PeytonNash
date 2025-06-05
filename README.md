@@ -10,7 +10,8 @@
 </a>
 
 **Experience**
-- Data Analyst, MDRC, New York, New York    TEST
+- Data Analyst,
+ - MDRC, New York, New York
 
 **Education** 
 - Bard College, BA in Economics, 2020
