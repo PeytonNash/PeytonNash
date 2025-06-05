@@ -1,6 +1,6 @@
 ## About Me
 
-**Let's Connect!**
+**Contact Me**
 
  <a href="https://www.linkedin.com/in/peytonnash/">
    <img height="50" src="https://github.com/user-attachments/assets/6fdd796e-7c70-49d5-bad6-bb6922091840"/>
@@ -8,6 +8,9 @@
  <a href="peytonnash@gmail.com">
    <img height="50" src="https://github.com/user-attachments/assets/4382cd36-bff7-453d-bd76-f82c9f8d6cb0"/>
 </a>
+
+**Experience**
+- Data Analyst, MDRC, New York, New York    TEST
 
 **Education** 
 - Bard College, BA in Economics, 2020
