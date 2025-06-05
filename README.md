@@ -9,8 +9,6 @@
    <img height="50" src="https://github.com/user-attachments/assets/4382cd36-bff7-453d-bd76-f82c9f8d6cb0"/>
 </a>
 
-
-
 **Education** 
 - Bard College, BA in Economics, 2020
 - University of Chicago, MS in Applied Data Science, expected Fall 2025
