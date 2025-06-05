@@ -1,6 +1,6 @@
 ## About Me
 
-**Contact Me**
+### Contact Me
 
  <a href="https://www.linkedin.com/in/peytonnash/">
    <img height="50" src="https://github.com/user-attachments/assets/6fdd796e-7c70-49d5-bad6-bb6922091840"/>
@@ -9,19 +9,19 @@
    <img height="50" src="https://github.com/user-attachments/assets/4382cd36-bff7-453d-bd76-f82c9f8d6cb0"/>
 </a>
 
-**Education** 
+### Education
 - Bard College, BA in Economics, 2020
 - University of Chicago, MS in Applied Data Science, expected Fall 2025
 
-**Interests**
+### Interests
 - Machine Learning
 - Reinforcement Learning
 - Generative AI
 
-**Languages and Tools**
-- Programming Languages: Python (Pandas, numpy, scikit-learn, PyTorch, Keras) • SQL • R • SAS • Stata
-- Database: SQL Server • PostgreSQL • MySQL • BigQuery • Neo4j • MongoDB Business Intelligence Tools: Grafana • Power BI • Tableau
-- Other: dbt • Apache Airflow • Git
+### Languages and Tools
+- **Programming Languages:** Python (Pandas, numpy, scikit-learn, PyTorch, Keras) • SQL • R • SAS • Stata
+- **Database:** SQL Server • PostgreSQL • MySQL • BigQuery • Neo4j • MongoDB Business Intelligence Tools: Grafana • Power BI • Tableau
+- **Other:** dbt • Apache Airflow • Git
 
 <!--
 **PeytonNash/PeytonNash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
