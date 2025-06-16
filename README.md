@@ -1,5 +1,3 @@
-## About Me
-
 ### Contact Me
 
  <a href="https://www.linkedin.com/in/peytonnash/">
