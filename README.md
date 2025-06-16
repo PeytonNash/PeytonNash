@@ -24,6 +24,12 @@
 - **Business Intelligence Tools:** Grafana • Power BI • Tableau
 - **Other:** dbt • Apache Airflow • Git
 
+### Publications
+- [“Evaluation of an Expansion Strategy for the Assessment-to-Instruction Professional Support System”](https://www.mdrc.org/work/publications/evaluation-expansion-strategy-assessment-instruction-professional-support-system) (with Pei Zhu, Emma Alterman and Nicholas Commins), MDRC Report (2023).
+- “For Love and Money? Earnings and Marriage Among Same-Sex Couples” (with Michael Martell), Research Briefs in Economic Policy (March 2021), Cato Institute.
+- “For Love and Money? Earnings and Marriage Among Same-Sex Couples” (with Michael Martell), Journal of Labor Research (2020).
+
+
 <!--
 **PeytonNash/PeytonNash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
