@@ -26,8 +26,8 @@
 
 ### Publications
 - [“Evaluation of an Expansion Strategy for the Assessment-to-Instruction Professional Support System”](https://www.mdrc.org/work/publications/evaluation-expansion-strategy-assessment-instruction-professional-support-system) (with Pei Zhu, Emma Alterman and Nicholas Commins), MDRC Report (2023).
-- “For Love and Money? Earnings and Marriage Among Same-Sex Couples” (with Michael Martell), Research Briefs in Economic Policy (March 2021), Cato Institute.
-- “For Love and Money? Earnings and Marriage Among Same-Sex Couples” (with Michael Martell), Journal of Labor Research (2020).
+- [“For Love and Money? Earnings and Marriage Among Same-Sex Couples”](https://www.cato.org/research-briefs-economic-policy/love-money-earnings-marriage-among-same-sex-couples) (with Michael Martell), Research Briefs in Economic Policy (March 2021), Cato Institute.
+- [“For Love and Money? Earnings and Marriage Among Same-Sex Couples”](https://link.springer.com/article/10.1007/s12122-020-09305-4) (with Michael Martell), Journal of Labor Research (2020).
 
 
 <!--
